@@ -1,0 +1,42 @@
+.main-container{
+    background-image: url("https://media.istockphoto.com/id/1147335775/photo/small-pink-flowers-over-pastel-colors.jpg?s=612x612&w=0&k=20&c=dqFRhODFzKL25F1zYVrmyKzk-B7fkKuXFVh0Ky1IXEY=");
+    background-size: cover;
+    height:150vh;
+    margin-top: 0%;
+    padding: 0%;
+}
+.main-heading{
+    text-align: center;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    padding:20px;
+    margin: 0%;
+    color:black;
+
+}
+.control-label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 23px;
+    font-weight: 200px;
+    font-style: italic;
+    color:black;
+    padding-left:16px;
+    margin-top: 0px;
+    padding-bottom: 16px;
+}
+.form-control{
+    height:50px;
+    width:700px;
+    padding-top: 8px;
+    margin-left: 8px;
+}
+.btn{
+    width:120px;
+    height:50px;
+    font-size: 16px;
+    font-style: oblique;
+}
+.img-predict{
+    color:rgb(44, 44, 14);
+}
